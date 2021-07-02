@@ -1,0 +1,1 @@
+﻿.create function ExampleFuction(){ MyTable | take 1 }

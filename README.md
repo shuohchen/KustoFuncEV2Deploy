@@ -1,0 +1,1 @@
+# KustoFuncEV2Deploy
