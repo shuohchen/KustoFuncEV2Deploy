@@ -13,7 +13,7 @@
           "Reference": {
             "Provider": "AzureKeyVault",
             "Parameters": {
-              "SecretId": "https://kustofunctestkeyvault.vault.azure.net/secrets/appsecret/a4a8ed5f6a8143ba866b6447878d2d73"
+              "SecretId": "https://kustofunctestkeyvault.vault.azure.net/secrets/kustoclustercertificate/90272f1886c04f81b20ede8836ff0ea5"
             }
           },
           "Properties": {
@@ -33,7 +33,7 @@
           "Value": "true"
         },
         "DatabaseName": {
-          "Value": "MyDatabase"
+          "Value": "kustofunctestdb"
         }
       }
     },
@@ -48,7 +48,7 @@
           "Reference": {
             "Provider": "AzureKeyVault",
             "Parameters": {
-              "SecretId": "https://kustofunctestkeyvault.vault.azure.net/secrets/appsecret/a4a8ed5f6a8143ba866b6447878d2d73"
+              "SecretId": "https://kustofunctestkeyvault.vault.azure.net/secrets/kustoclustercertificate/90272f1886c04f81b20ede8836ff0ea5"
             }
           },
           "Properties": {
